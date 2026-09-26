@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="@listeningkit/telnyx — Convex component for Telnyx" width="100%" />
+  <img src="https://raw.githubusercontent.com/matthewdonsemail-lab/convex-telnyx/main/banner.png" alt="@listeningkit/telnyx — Convex component for Telnyx" width="100%" />
 </p>
 
 # @listeningkit/telnyx (Convex Telnyx Component)
