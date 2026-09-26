@@ -1,0 +1,26 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "allowImportingTsExtensions": false,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "rootDir": "."
+  },
+  "include": [
+    "./convex.config.ts",
+    "./schema.ts",
+    "./telnyx.ts",
+    "./client.ts",
+    "./lib/**/*.ts",
+    "./_generated/**/*.ts"
+  ],
+  "exclude": [
+    "dist",
+    "node_modules",
+    "test.ts",
+    "**/*.test.ts"
+  ]
+}
