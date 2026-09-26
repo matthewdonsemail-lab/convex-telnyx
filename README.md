@@ -276,7 +276,7 @@ If this is useful, a star helps someone else find it.
 [![License](https://img.shields.io/github/license/matthewdonsemail-lab/convex-telnyx?style=flat-square)](https://github.com/matthewdonsemail-lab/convex-telnyx/blob/main/LICENSE)
 
 [![GitHub](https://img.shields.io/badge/GitHub-matthewdonsemail-lab/convex-telnyx-181717?style=flat-square&logo=github&link=https://github.com/matthewdonsemail-lab/convex-telnyx)](https://github.com/matthewdonsemail-lab/convex-telnyx)
-[![X](https://img.shields.io/badge/X-matthewdonsemail-000000?style=flat-square&logo=x&link=https://x.com/matthewdonsemail)](https://x.com/matthewdonsemail)
+[![X](https://img.shields.io/badge/X-matthewsoldit-000000?style=flat-square&logo=x&link=https://x.com/matthewsoldit)](https://x.com/matthewsoldit)
 [![Issues](https://img.shields.io/github/issues/matthewdonsemail-lab/convex-telnyx?style=flat-square)](https://github.com/matthewdonsemail-lab/convex-telnyx/issues)
 [![Pull requests](https://img.shields.io/github/issues-pr/matthewdonsemail-lab/convex-telnyx?style=flat-square)](https://github.com/matthewdonsemail-lab/convex-telnyx/pulls)
 
