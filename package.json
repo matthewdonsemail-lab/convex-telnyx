@@ -1,6 +1,6 @@
 {
   "name": "@listeningkit/telnyx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Production Convex component for Telnyx. Send SMS, verify Ed25519-signed webhooks, and keep every message idempotent through one typed API.",
   "keywords": [
     "convex",
